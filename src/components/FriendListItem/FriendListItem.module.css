@@ -1,0 +1,30 @@
+.true {
+
+    color: var(--green);
+
+}
+
+.false {
+
+    color: var(--red);
+
+}
+
+.img {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.txt {
+    font-size: 30px;
+}
+
+.status {
+    font-size: 20px;
+}
